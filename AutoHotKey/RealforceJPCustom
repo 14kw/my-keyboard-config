@@ -1,0 +1,6 @@
+; additional key remaps
+SC073::SendText("``")
++SC073::SendText("~")
+AppsKey::PgDn
+sc079::Send("{Enter}")
+sc07B::Send("{vkF3sc029}")
